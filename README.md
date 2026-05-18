@@ -58,21 +58,6 @@ El repositorio contiene todos los documentos y archivos técnicos generados dura
 
 ---
 
-## 🚀 Uso de los Archivos de Configuración
-
-### Restaurar configuración de pfSense
-1. Accede al entorno WebGUI de pfSense.
-2. Dirígete a **Diagnostics > Backup & Restore**.
-3. En el apartado *Restore Backup*, selecciona el archivo `config-pfSenseBAO...xml`.
-4. Haz clic en **Restore Configuration**. El sistema se reiniciará con la topología del proyecto.
-
-### Conexión mediante OpenVPN
-1. Descarga el cliente de [OpenVPN Connect](https://openvpn.net/client-connect-vpn-for-windows/).
-2. Importa cualquiera de los archivos `.ovpn` (`USER1` o `USER2`) en el cliente.
-3. Introduce las credenciales correspondientes para establecer el túnel seguro hacia la infraestructura.
-
----
-
 ## 👤 Autor
 
-* **Brais** - *Estudiante de Sistemas de Telecomunicaciones e Informáticos (STI2)* - [braisjrz](https://github.com/braisjrz)
+* **Brais Juárez Bastos** - *Estudiante de Sistemas de Telecomunicaciones e Informáticos (STI2)* - [braisjrz](https://github.com/braisjrz)
