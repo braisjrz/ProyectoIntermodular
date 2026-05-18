@@ -5,7 +5,7 @@
 ![Tecnología](https://img.shields.io/badge/Firewall-pfSense-f06b20?style=for-the-badge)
 ![VPN](https://img.shields.io/badge/VPN-OpenVPN-ea7a28?style=for-the-badge)
 
-Repositorio oficial del **Proyecto Intermodular** correspondiente al ciclo superior de **Sistemas de Telecomunicaciones e Informáticos (STI2)**. 
+Repositorio del **Proyecto Intermodular** correspondiente al ciclo superior de **Sistemas de Telecomunicaciones e Informáticos (STI2)**, creado por **Brais Juárez Bastos**. 
 
 Este proyecto documenta y detalla el diseño, despliegue y configuración de una infraestructura de red segura, incluyendo la planimetría de la instalación, normativas aplicables, configuración de enrutamiento/firewall y el despliegue de redes privadas virtuales (VPN).
 
