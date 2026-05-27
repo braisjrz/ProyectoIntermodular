@@ -54,7 +54,7 @@ El repositorio contiene todos los documentos y archivos técnicos generados dura
 * **pfSense**: Enrutamiento, Firewall y gestión de red.
 * **OpenVPN**: Despliegue de red privada virtual para acceso remoto seguro.
 * **AutoCAD**: Diseño asistido por ordenador para la planimetría de la instalación.
-* **Packet Tracer / GNS3** *(si aplica)*: Simulación de la topología de red.
+* **GNS3**: Simulación de la topología de red.
 
 ---
 
